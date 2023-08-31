@@ -1,4 +1,4 @@
-source code:<br># new_imageresizer<br>
+source code used in views.py in DJANGO:<br># new_imageresizer<br>
     print("****This tool currently only works for images with the extension .jpeg****")<br>
     source = input("enter the path of the source folder in which the images are present:")<br>
     destination=input("enter the path of the destination folder to which the resized images has to go:")<br>
