@@ -1,5 +1,5 @@
 source code:# new_imageresizer
-    print("****This tool currently only works for images with the extension .jpeg****")\n
+    print("****This tool currently only works for images with the extension .jpeg****")<br>
     source = input("enter the path of the source folder in which the images are present:")
     destination=input("enter the path of the destination folder to which the resized images has to go:")
     source=os.path.join(r"{0}".format(source)) #maps the source to the folder in the system
